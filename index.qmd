@@ -1,11 +1,51 @@
 ---
-title: "meriah-site"
+# (no title here)
+page-layout: full
 ---
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600&display=swap" rel="stylesheet">
 
-This is a Quarto website.
+:::::: {.grid}
+::: {.g-col-5}
+![](meriah_pic.jpg){.circle}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+<div style="text-align: center; font-family: 'Manrope', sans-serif; font-size: 2.2rem; font-weight: 600; color: #2c3e50; margin-top: 1em;">
+  Meriah L. DeJoseph, PhD
+</div>
+
+<div class="job-title">Postdoc Fellow at Stanford's Center on Early Childhood</div>
+
+
+<div class="social-icons" style="text-align: center;">
+  <a href="https://scholar.google.com/citations?user=PcD63jI-3aoC&hl=en&oi=ao" target="_blank">
+    <img src="googlescholar.png" alt="Google Scholar" width="40">
+  </a>
+  <a href="https://osf.io/zfj9v" target="_blank">
+    <img src="osf.png" alt="OSF" width="40">
+  </a>
+  <a href="https://bsky.app/profile/meriahdejoseph.bsky.social" target="_blank">
+    <img src="bluesky.png" alt="Bluesky" width="40">
+  </a>
+  <a href="mailto:meriahd@stanford.edu">
+    <img src="mailboxdotorg.png" alt="Email" width="40">
+  </a>
+</div>
+
+:::
+
+::: {.g-col-7}
+I am a NICHD F32 Postdoctoral Fellow at [Stanford’s Center on Early Childhood](https://earlychildhood.stanford.edu/), where I study how children navigate the complexities of growing up in poverty. My research examines both the challenges children face and the adaptive strengths they develop in response, particularly focusing on self-regulation and cognitive skills. Drawing from my own experiences growing up below the poverty line, I am committed to conducting science that fully reflects the lived realities of families experiencing economic disadvantage.
+
+My work combines developmental psychology and cognitive science with advanced methods like computational modeling, psychometrics, and causal inference. This allows me to move beyond traditional deficit-focused narratives and explore the diverse ways children adapt cognitively, behaviorally, and physiologically to their environments. Ultimately, my goal is to generate precise and actionable insights that inform equitable policies and programs, supporting children’s existing strengths while addressing structural inequities. In doing so, my research contributes to broader efforts within the [CERA network](https://www.ceranetwork.org) to advance strength-based approaches to studying childhood adversity.
+
+<strong style="color: #2F3C7E;">Currently on the academic job market for 2025.</strong>
+
+
+<br>
+
+<div style="text-align:center;">
+[Download my CV](DeJoseph_CV.pdf){.btn .btn-primary target="_blank"}
+</div>
+:::
+::::::
+

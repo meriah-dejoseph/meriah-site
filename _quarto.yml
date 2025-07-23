@@ -2,20 +2,23 @@ project:
   type: website
 
 website:
-  title: "meriah-site"
+  title: "Meriah L. DeJoseph, PhD"
   navbar:
     left:
-      - text: Home
-        href: index.qmd
       - text: About
-        href: about.qmd
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Outreach & Media
+        href: outreach.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
+    include-in-header: fonts.html
 
-editor: visual
-output-dir: docs
+
 
