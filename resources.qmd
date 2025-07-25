@@ -1,0 +1,29 @@
+---
+title: "Resources"
+format:
+  html:
+    page-layout: full
+---
+
+I’ve benefited deeply from the generosity of others who shared their advice, templates, and reflections online. This page is my small way of giving back — a curated collection of resources I’ve found helpful or created, aimed at supporting students, researchers, educators, families, and others interested in child development.
+
+## For Prospective PhD Students
+- [NextGen Psych Scholars Program (NPSP) - a peer-to-peer mentorship program I founded as a grad student that I encourage all aspiring PhD students to join! ](https://nextgenpsychscholars.com/)
+- [NPSP mentee resources hub - includes everything from example statements to interview prep](https://drive.google.com/drive/folders/1o8dn9BNK7bcH5GHhfQSzlb3HnDUgTZbe)
+- [Blog with tips and resources (PDF)](Tips_prospective PhDs.pdf)
+
+## For Early Career Researchers
+- [NPSP mentor resources hub - includes example apps for academic and industry jobs](https://drive.google.com/drive/folders/11zsAKNSUek1wsDo7bn6HzV-DI--kaY9P)
+- [Misc resources from Dr. Laurel Gabard-Durnam](https://www.plasticityinneurodevelopmentlab.com/resourcesforresearchers)
+- [Articles and resources for adopting a strength-based approach to studying effects of adversity from the CERA network](https://cera-network.com/resources)
+
+## For Educators & Policymakers
+- [BOLD blog on hidden strengths of children in poverty](https://boldscience.org/harnessing-the-hidden-strengths-of-children-in-poverty/)
+- [Infographic of children's struggles and strengths in the context of disadvantage](https://cera-network.com/products?category=INFOGRAPHIC)
+- [Article on the value of a strength-based approach for education and social policy](https://www.sciencedirect.com/science/article/pii/S1878929324000367)
+- [Article on the importance of recognizing parents' agency, adaptivity, and resourcefulness in low-socioeconomic contexts](https://direct.mit.edu/daed/article/154/1/52/127935/Caring-for-Children-in-Lower-SES-Contexts)
+
+## For Families
+- [Series of articles on the science of caregiving](https://direct.mit.edu/daed/issue/154/1)
+- [PBS blog: Strategies for teaching kids self-regulation](parenting_resources.pdf)
+- [Sesame Street printables, videos, and more on topics important to families](https://sesameworkshop.org/resources/)

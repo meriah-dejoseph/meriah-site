@@ -1,0 +1,87 @@
+---
+title: "Teaching"
+page-layout: article
+---
+
+## Teaching Philosophy
+
+As the first in my family to attend college, I initially struggled to navigate the academic world. But through the support of dedicated mentors, I found my footing. I draw on these early experiences to inform my own approach to teaching and mentorship. Today, I teach and mentor with that same ethos: every student has the capacity to succeed, and it’s my responsibility to create an inclusive, empowering learning environment.
+
+In both the classroom and research settings, I work to make the hidden curriculum visible by clearly teaching the skills, strategies, and expectations that are often assumed but rarely explained. I aim to foster a sense of belonging by creating space for students to bring their full selves into the learning environment and by valuing diverse ways of thinking. I emphasize critical thinking and information literacy, encouraging students to ask deeper questions, evaluate evidence carefully, and communicate with clarity. Through hands-on research mentorship, I also support students—especially those from underrepresented backgrounds—in building the skills and confidence they need to thrive in academic and professional settings.
+
+---
+
+## Courses Taught
+
+- **CPSY 2301: Introduction to Child Psychology | University of Minnesota**  
+  *Co-instructor*  
+  - Undergraduate, average evaluation: 5.9 / 6  
+  - [Download sample syllabus](DeJosephEales_ChildPsych_Syllabus.pdf){target="_blank"}
+
+- **CPSY 3308W: Research Methods in Developmental Psychology | University of Minnesota**  
+  *Teaching Assistant*
+
+- **COGS 11: Minds and Brains | University of California, San Diego**  
+  *Teaching Assistant and Section Instructor*  
+  - Earned departmental teaching award
+
+
+---
+
+## Student Feedback
+
+> *"She explained things very well, was very good at relating things to real life. She kept the lectures interactive by showing many examples."*
+
+> *"Implemented feedback given by students and incorporated fun things in the lecture (like cute tik toks)."*
+
+> *"Something that helped me the most was the support I was given outside of the classroom discussing the things I did not understand. Also, the resources we were given were really helpful for gaining a deeper understanding of the content."*
+
+> *"[Meriah] was always very cognizant of the things that were going on around us and were very respectful of how it
+could be affecting us."*
+
+> *"I appreciate the kindness [Meriah] showed to students and brought attention to the stresses that we all are feeling, especially with current events going on in the world."*
+
+---
+
+## Mentorship Experience
+
+I have mentored over 13 undergraduate research assistants, including:
+
+- Two students who completed senior honors theses  
+- Students from diverse backgrounds, including first-generation college students  
+- Research assistants who have gone on to graduate and medical school
+
+**Publications and Conference Presentations with Mentees**  
+Mentees are denoted with a caret (^).
+
+- Mayo, O.A.^, DeJoseph, M.L., Leneman, K., Anyanso, V., & Berry, D. (2025). *The Unique and Interactive Associations Between Discrimination and Economic Hardship Predicting Black Children’s Basal Cortisol Levels*. *Minnesota Undergraduate Research & Academic Journal*.
+
+- DeJoseph, M.L., Leneman, K.L., Palmer, A.P., Padrutt, E., Mayo, O.^, & Berry, D. (2023). *Adrenocortical and autonomic cross-system regulation in youth: A meta-analysis*. *Psychoneuroendocrinology*, 06416.
+
+- Briguene, S.*^, DeJoseph, M.L.*, Spaeth, A.M.^, & Berry, D. (2023). *Examining the role of environmental unpredictability and social support on autonomic regulation and organization*. *Flux International Congress on Developmental Cognitive Neuroscience*, Santa Rosa, CA.
+
+- Harwell, M.G.*^, DeJoseph, M.L.*, Kuplic, S.^, Briguene, S.^, Frankenhuis, W.E., & Berry, D. (2023). *Qualitative analysis of youth’s perception of their worlds: Identifying challenges and sources of support*. *Society for Research in Child Development*, Salt Lake City, UT.
+
+- Spaeth, A.M.*^, DeCastro, C.J.*^, DeJoseph, M.L., Olivares, B.^, Frankenhuis, W.E., & Berry, D. (2023). *Associations between environmental unpredictability and cognitive learning processes in early adolescence*. *Society for Research in Child Development*, Salt Lake City, UT.
+
+- Mayo, O.^, DeJoseph, M.L., Anaya, V., Lee, R., & Berry, D. (2022). *Discrimination, economic strain, and fluctuations in perceived stress among low-income Black women*. *American Psychological Association Convention*, Minneapolis, MN.
+
+- Mayo, O.^, DeJoseph, M.L., Anaya, V., & Berry, D. (2022). *Discrimination, economic strain, and fluctuations in perceived stress in low-income Black women*. *SRCD Special Topic Meeting: Racism, Prejudice, and Discrimination*, Rio Grande, Puerto Rico.
+
+- Ibrahim, S.A.^, DeJoseph, M.L., Blair, C.B., & Berry, D. (2021). *Associations between poverty and attention processes in middle childhood: Adaptation to context*. *Society for Research in Child Development*, Virtual.
+
+- Mayo, O.A.^, Leneman, K.B., DeJoseph, M.L., Blair, C.B., & Berry, D. (2021). *The moderating role of classroom racial composition on the association between income and child adjustment outcomes*. *Society for Research in Child Development*, Virtual.
+
+- Sparrow, E.A.^, DeJoseph, M.L., Liu, Y.^, Blair, C.B., & Berry, D. (Accepted, 2020). *Associations between child sleep problems and executive functioning in middle childhood*. *UMN Center for Education and Human Development Research Day*, Minneapolis, MN.
+
+- Bendel-Stenzel, L.C.^, DeJoseph, M.L., Blair, C.B., & Berry, D. (accepted, 2020). Moving beyond income: Dimensions of deprivation and threat in the context of poverty uniquely predict child internalizing problems. SRCD Special Topics Conference, St. Louis, MI.
+
+- DeJoseph, M.L., Ibrahim, D.A.^, Obregon, J.N., & Raver, C.C (2017). Attention bias to threat moderates the association of poverty and anxiety with internalizing among low-income adolescents. Flux International Congress on Developmental Cognitive Neuroscience, Portland, OR.
+
+- Ibrahim, D.A.^, DeJoseph, M.L., & Raver, C.C. (2017). Emotional Go/No-Go in the field: Applying a lab-based standard measure of emotional regulation to a high-poverty adolescent population. Flux International Congress on Developmental Cognitive Neuroscience, Portland, OR. 
+
+- Ibrahim, D.A.^, DeJoseph, M.L., Roy, A.L., & Raver, C.C. (2017). Adolescents take action: A look into the experiences that inform the development of critical consciousness among low-income minority youth. Society for the Study of Human Development, Providence, RI.
+
+---
+
+

@@ -13,6 +13,8 @@ website:
         href: teaching.qmd
       - text: Outreach & Media
         href: outreach.qmd
+      - text: Resources
+        href: resources.qmd
 
 format:
   html:

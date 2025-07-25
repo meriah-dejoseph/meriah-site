@@ -1,0 +1,73 @@
+---
+title: "Outreach & Media"
+format:
+  html:
+    page-layout: full
+---
+
+I’m committed to bridging research and real-world impact through public scholarship. Whether through blogs, podcasts, or community events, I aim to share science in ways that are clear, accessible, and grounded in the lived experiences of families navigating economic hardship.
+
+
+<div class="grid-container">
+
+<!-- Card 1 -->
+<div class="card">
+  <a href="https://sensitiveperiods.buzzsprout.com/2024695/episodes/16820613-s3e4-strength-based-approaches-in-dcn-with-drs-divyangana-rakesh-monica-ellwood-lowe-and-meriah-dejoseph" target="_blank">
+    <img src="fluxpod.png" alt="Preview image" class="card-img">
+    <div class="card-title">Podcast: Strength-based approaches in developmental cognitive neuroscience</div>
+  </a>
+</div>
+
+<!-- Card 2 -->
+<div class="card">
+  <a href="https://timesofsandiego.com/opinion/2025/04/03/federal-funding-cuts-threaten-the-next-generation-of-u-s-scientists/" target="_blank">
+    <img src="TimesSD.png" alt="Preview image" class="card-img">
+    <div class="card-title">Op-Ed: Federal funding cuts threaten the next generation of U.S. scientists</div>
+  </a>
+</div>
+
+<!-- Card 3 -->
+<div class="card">
+  <a href="https://boldscience.org/harnessing-the-hidden-strengths-of-children-in-poverty/" target="_blank">
+    <img src="boldblog.png" alt="Preview image" class="card-img">
+    <div class="card-title">Blog: Harnessing the hidden strengths of children in poverty</div>
+  </a>
+</div>
+
+<!-- Card 4 -->
+<div class="card">
+  <a href="https://www.thesocialcreatures.org/thecreaturetimes/new-child-allowance" target="_blank">
+    <img src="socialcreat.png" alt="Preview image" class="card-img">
+    <div class="card-title">Blog: How the New Child Allowance Nurtures Social Connectedness and Supports Child Development</div>
+  </a>
+</div>
+
+<!-- Card 5 -->
+<div class="card">
+  <a href="https://cera-network.com/products?category=INFOGRAPHIC" target="_blank">
+    <img src="cerainfo.png" alt="Preview image" class="card-img">
+    <div class="card-title">Infographic: How children develop problem-solving skills and strategies in disadvantaged environments</div>
+  </a>
+</div>
+
+<!-- Card 6 -->
+<div class="card">
+  <a href="https://calstarnetwork.org/secretofstress/">
+    <img src="calstar.png" alt="Preview image" class="card-img">
+    <div class="card-title">Instructor: Public-facing course on measuring stress regulation in children</div>
+  </a>
+</div>
+
+<!-- Card 7 -->
+<div class="card">
+  <a href="https://nextgenpsychscholars.com/">
+    <img src="NextGen.png" alt="Preview image" class="card-img">
+    <div class="card-title">Founder: NextGen Psych Scholars Program (see also DeJoseph et al., 2024 J. Div. High. Ed.)</div>
+  </a>
+</div>
+
+
+
+
+
+</div>

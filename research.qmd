@@ -1,0 +1,66 @@
+---
+title: "Research"
+page-layout: full
+---
+
+Research has extensively documented the harms of growing up in poverty, often at the cost of overlooking the strategic ways children adapt to its complexities. My work seeks to reveal these overlooked developmental adaptations by asking: How do poverty-related experiences help children solve challenges and adapt to their circumstances? How can these adaptive strengths be applied in other contexts, like school? 
+
+Specifically, my research examines the cognitive and physiological processes through which poverty-related experiences shape children’s self-regulation development. I take a balanced approach to this work, considering both struggles and strengths in context. Three core goals guide my research, which aim to: (1) validly measure children’s lived experiences beyond income, (2) characterize the dynamics and developmental timing of such experiences, and (3) understand self-regulation as an adaptive process that dynamically adjusts to meet environmental demands, occurring across behavioral, cognitive, and physiological levels.
+
+:::::: {.grid .gap-4}
+
+::: {.g-col-3 style="align-self: center;"}
+<img src="experience.png" class="circle-img" width="250px">
+:::
+
+::: {.g-col-9}
+## Insert
+
+Insert
+
+
+- 
+- 
+- 
+:::
+
+::::::
+
+:::::: {.grid .gap-4}
+
+::: {.g-col-3 style="align-self: center;"}
+<img src="timing.png" class="circle-img" width="250px">
+:::
+
+::: {.g-col-9}
+## Insert
+
+Insert
+
+
+- 
+- 
+- 
+:::
+
+::::::
+
+:::::: {.grid .gap-4}
+
+::: {.g-col-3 style="align-self: center;"}
+<img src="cog.png" class="circle-img" width="250px">
+:::
+
+::: {.g-col-9}
+## Insert
+
+Insert
+
+
+- 
+- 
+- 
+:::
+
+::::::
+
