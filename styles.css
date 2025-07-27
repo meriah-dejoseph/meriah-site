@@ -1,0 +1,133 @@
+/* Make photo circular */
+img.circle {
+  border-radius: 50%;
+  width: 90%;
+  height: auto;
+}
+
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+/* Base styles */
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #4A4A4A;
+  background-color: #FAF9F6;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #2F3C7E;
+}
+
+a {
+  color: #2F3C7E;
+}
+a:hover {
+  color: #7E9E87;
+}
+
+/* CV Button */
+a.btn.btn-primary {
+  background-color: #8C7537; /* gold */
+  border-color: #8C7537;
+  color: white;
+  font-weight: 500;
+  padding: 10px 18px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+a.btn.btn-primary:hover {
+  background-color: #a98f38; /* darker gold on hover */
+  border-color: #a98f38;
+}
+
+/* Name styling */
+.name-title {
+  font-family: 'Outfit', sans-serif;
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: #2c3e50; /* navy */
+  text-align: center;
+  margin-top: 1em;
+}
+
+/* Title styling */
+.job-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #666;
+  text-align: center;
+  margin-top: 0.4em;
+  margin-bottom: 1em;
+}
+
+/* Social icon row */
+.social-icons {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* Individual icons */
+.social-icons img {
+  filter: brightness(0) saturate(100%) invert(25%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(0.8) contrast(85%);
+  margin: 0 12px;
+  width: 36px;
+  height: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  text-align: center;
+  background: #fff;
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card-title {
+  font-weight: bold;
+  padding: 0.75rem;
+  font-size: 1rem;
+  color: #333;
+}
+
+
+.circle-img {
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+}
+
